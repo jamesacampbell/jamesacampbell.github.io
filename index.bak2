@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+    <script>
+	var host = "jamesacampbell.github.io";
+	if ((host == window.location.host) && (window.location.protocol != "https:"))
+	    window.location.protocol = "https";
+    </script>
+<head>
+	  <style>
+    body {
+        background: white }
+    section {
+        opacity: 0.8;
+        color: #A2A2A2;
+        background-color: #E2E2E2;
+        border: 2px solid #f2f2f2;
+        padding: 2em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transition: all 0.5s ease;
+        transform: translate(-50%, -50%) }
+    h3 {
+    	letter-spacing: 0.7em;
+    	background-color: none;
+    	transition: all 0.5s ease;
+    	color: #A2A2A2;
+    	padding: 2px 5px;
+    }
+    h3:hover {
+    	background-color: #A1A1A1;
+    	color: white;
+    	transition: all 0.5s ease;
+    	padding: 3px 8px;
+    }
+    section:hover {
+    	background-color:#A1A1A1;
+    	transition: all 0.5s ease;
+    }
+  </style>
+	<link rel="canonical" href="https://jamesacampbell.github.io" />
+</head>
+<body>
+	<section>
+	<h3 style='font-family:monospace;'>
+		Hello WURLD!
+	</h3>
+	</section>
+</body>
+</HTML>
+

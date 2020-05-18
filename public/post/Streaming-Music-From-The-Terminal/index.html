@@ -9,11 +9,8 @@
     <meta name="author" content="James Campbell">
     <link rel="apple-touch-icon" href="https://jamescampbell.us/img/apple-touch-icon.png">
 
-    <title>CAUSES &amp; EFFECTS - CAUSES &amp; EFFECTS</title>
+    <title>CAUSES &amp; EFFECTS - Streaming Music From The Terminal</title>
 
-    
-    <link href="https://jamescampbell.us/index.xml" rel="alternate" type="application/rss+xml" title="CAUSES &amp; EFFECTS" />
-    <link href="https://jamescampbell.us/index.xml" rel="feed" type="application/rss+xml" title="CAUSES &amp; EFFECTS" />
     
 
     
@@ -84,129 +81,113 @@
 
 
     
-    <header class="intro-header" style="background-image: url('https://jamescampbell.us/img/home-bg.jpg')">
-     <div class="container">
-       <div class="row">
-         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-           <div class="site-heading">
-             <h1>CAUSES &amp; EFFECTS</h1>
-             <hr class="small">
-             <span class="subheading">pushing buttons since 1981</span>
+    
+    <header class="intro-header" style="background-image: url('https://jamescampbell.us//img/guitar.jpg')">
+      
+      <div class="container">
+        <div class="row">
+           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+             <div class="post-heading">
+               <h1>Streaming Music From The Terminal</h1>
+               <h2 class="subheading">The joy of headless apps.</h2>
+               <span class="meta">Posted by <a href="#">James Campbell</a> on Sat, Feb 23, 2019
+               <br />
+               Last Updated on Sat, Oct 26, 2019
+                 <br />
+                 In <a href="https://jamescampbell.us/categories/tips" >Tips</a>, 
+
+                 <br />
+                 Tags <a href="https://jamescampbell.us/tags/music" >music</a> <a href="https://jamescampbell.us/tags/pandora" >pandora</a> <a href="https://jamescampbell.us/tags/streaming" >streaming</a> 
+
+               </span>
+             </div>
            </div>
-         </div>
-       </div>
-     </div>
+        </div>
+      </div>
     </header>
 
     
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-          
-                <div class="post-preview">
-    <a href="https://jamescampbell.us/post/Streaming-Music-From-The-Terminal/">
-        <h2 class="post-title">Streaming Music From The Terminal</h2>
-        <h3 class="post-subtitle">The joy of headless apps.</h3>
-      </a>
-      <p class="post-meta">Posted by <a href="#">James Campbell</a> on Sat, Feb 23, 2019
-      <br />
-      Last Updated on Sat, Oct 26, 2019
-      <br />
-      In <a href="https://jamescampbell.us/categories/tips" >Tips</a>, 
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                  <p>Do you remember Rdio? It was a better than Spotify at streaming music back in 2012.</p>
 
-      <br />
-      Tags <a href="https://jamescampbell.us/tags/music" >music</a> <a href="https://jamescampbell.us/tags/pandora" >pandora</a> <a href="https://jamescampbell.us/tags/streaming" >streaming</a> 
+<p>In 2013, Entertainment Weekly compared a number of music services and judged Rdio the best, grading it &ldquo;A&rdquo; and writing that it had &ldquo;by far the best app and online interface, making database searching and playlist curation easy&rdquo; - <a href="http://www.ew.com/ew/article/0,,20663844,00.html" title="The best, but filed for bankruptcy.">source</a></p>
 
-    </p>
-  </div>
-  <hr>
+<p>Rdio ended up not finding the right business model, or spending too much of its 200 million, or who knows what, but it filed for bankruptcy in 2015 and Pandora purchased it and all of its assets for 75 million cash.</p>
 
-          
-                <div class="post-preview">
-    <a href="https://jamescampbell.us/post/Forever-Things/">
-        <h2 class="post-title">Forever Things</h2>
-        <h3 class="post-subtitle">Thinking about what to buy to never buy again.</h3>
-      </a>
-      <p class="post-meta">Posted by <a href="#">James Campbell</a> on Fri, May 25, 2018
-      <br />
-      Last Updated on Sat, Oct 26, 2019
-      <br />
-      In <a href="https://jamescampbell.us/categories/tips" >Tips</a>, 
+<p>Fast forward to today, and I still use Pandora (I also am on <a href="https://open.spotify.com/user/jamesanthonycampbell" title="Yep, I am a hipster.">Spotify</a>).</p>
 
-      <br />
-      Tags <a href="https://jamescampbell.us/tags/consumer" >consumer</a> <a href="https://jamescampbell.us/tags/consumerist" >consumerist</a> <a href="https://jamescampbell.us/tags/shopping" >shopping</a> 
+<p>What doesn&rsquo;t make sense to me about Pandora is that there is no desktop client. I guess they focus on mobile and web? Or is there a workaround?</p>
 
-    </p>
-  </div>
-  <hr>
+<p>Enter <a href="https://6xq.net/pianobar/" title="I was hesitant to link to it, I don't want it to get too popular.">Pianobar</a>. A thoughtful command line client for Pandora. Here is what mine looks like when I initialize it:</p>
 
-          
-                <div class="post-preview">
-    <a href="https://jamescampbell.us/post/on-photography-and-joy/">
-        <h2 class="post-title">On Photography and Joy</h2>
-        <h3 class="post-subtitle">My first attempt to explain why I call myself a photographer.</h3>
-      </a>
-      <p class="post-meta">Posted by <a href="#">James Campbell</a> on Tue, Feb 4, 2014
-      <br />
-      Last Updated on Sat, Oct 26, 2019
-      <br />
-      In <a href="https://jamescampbell.us/categories/essays" >Essays</a>, 
+<pre>
+$ pianobar
+Welcome to pianobar (2018.06.22)! Press ? for a list of commands.
+(i) Login... Ok.
+(i) Get stations... Ok.
+|>  Station "Sunset Rubdown Radio" (54342580605901210)
+(i) Receiving new playlist... Ok.
+|>  "You Go On Ahead (Trumpet Trumpet II)" by "Sunset Rubdown" on "Dragonslayer" <3
+#   -05:41/05:45
+</pre>
 
-      <br />
-      Tags <a href="https://jamescampbell.us/tags/photography" >photography</a> 
+<p>It auto loads the previous station you were listening to, in my case it was <a href="https://en.wikipedia.org/wiki/Sunset_Rubdown" title="Was a great Canadian indie rock band that included piano hero Spencer Krug.">Sunset Rubdown</a> Radio.</p>
 
-    </p>
-  </div>
-  <hr>
+<p>It turns out if you are on a Mac, and have <a href="https:/brew.sh" title="homebrew is a great package manager, and works on windows and linux now too.">homebrew</a> installed, you can do <code>brew install pianobar</code> and you can access and stream music from the terminal, complete with keyboard shortcuts to change stations and thumb-up (<code>shift + =</code>) or thumb-down (<code>-</code>) tracks. The <code>?</code> gets you the list of all of the commands. For completeness here ya go:</p>
 
-          
-                <div class="post-preview">
-    <a href="https://jamescampbell.us/post/The-Year-We-Missed/">
-        <h2 class="post-title">2013 The Year We Missed</h2>
-        <h3 class="post-subtitle">2013 is the year that wasn&#39;t.</h3>
-      </a>
-      <p class="post-meta">Posted by <a href="#">James Campbell</a> on Tue, Dec 31, 2013
-      <br />
-      Last Updated on Sat, Oct 26, 2019
-      <br />
-      In <a href="https://jamescampbell.us/categories/essays" >Essays</a>, 
+<pre>
+    +    love song
+    -    ban song
+    a    add music to station
+    c    create new station
+    d    delete station
+    e    explain why this song is played
+    g    add genre station
+    h    song history
+    i    print information about song/station
+    j    add shared station
+    n    next song
+    p    pause/resume playback
+    q    quit
+    r    rename station
+    s    change station
+    t    tired (ban song for 1 month)
+    u    upcoming songs
+    x    select quickmix stations
+    b    bookmark song/artist
+    (    decrease volume
+    )    increase volume
+    =    delete seeds/feedback
+    v    create new station from song or artist
+    P    resume playback
+    S    pause playback
+    ^    reset volume
+    !    change settings
+</pre>
 
-      <br />
-      Tags <a href="https://jamescampbell.us/tags/dystopia" >dystopia</a> <a href="https://jamescampbell.us/tags/gadgets" >gadgets</a> <a href="https://jamescampbell.us/tags/addiction" >addiction</a> 
+<p>As a step further, you can create a config file at <code>~/.config/pianobar/config</code> by <code>mkdir -p ~/.config/pianobar</code> and <code>nano ~/.config/pianobar/config</code> that will auto-log you into your Pandora account and even autostream a particular station of interest if you wish.</p>
 
-    </p>
-  </div>
-  <hr>
+<p>Example config from <code>man pianobar</code>:</p>
 
-          
-                <div class="post-preview">
-    <a href="https://jamescampbell.us/post/Why-Flickr-is-My-Online-Backup-Solution/">
-        <h2 class="post-title">Why Flickr is My Online Backup Solution</h2>
-        <h3 class="post-subtitle">Unlimited storage is the key phrase here.</h3>
-      </a>
-      <p class="post-meta">Posted by <a href="#">James Campbell</a> on Mon, Nov 11, 2013
-      <br />
-      Last Updated on Sat, Oct 26, 2019
-      <br />
-      In <a href="https://jamescampbell.us/categories/tips" >Tips</a>, 
+<pre>
+audio_quality = high
+autostart_station = 2
 
-      <br />
-      Tags <a href="https://jamescampbell.us/tags/backup" >backup</a> <a href="https://jamescampbell.us/tags/flickr" >flickr</a> 
+password = plaintext_password
+user = your@user.name
+</pre>
 
-    </p>
-  </div>
-  <hr>
+<p>It is one of the headless apps I use every day, so I thought I would share it.</p>
 
-          
-          
-          <ul class="pager">
-            <li class="next">
-              <a href="https://jamescampbell.us/post/">Older Posts &rarr;</a>
-            </li>
-          </ul>
+<p>What apps are indispensible to you?</p>
+
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
+    </article>
 
     <hr>
     
