@@ -142,7 +142,8 @@ h6 {
 }
 
 a {
-  color: #404040
+  color: #404040;
+  text-decoration: none;
 }
 
 a:hover,
