@@ -364,7 +364,8 @@ hr.small {
 }
 
 .post-preview>a {
-  color: #404040
+  color: #404040;
+  text-decoration: none;
 }
 
 .post-preview>a:hover,
