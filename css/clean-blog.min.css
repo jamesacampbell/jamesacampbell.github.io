@@ -207,7 +207,8 @@ hr.small {
 
   .navbar-custom .nav li a {
     color: #fff;
-    padding: 20px
+    padding: 20px;
+    text-decoration: none;
   }
 
   .navbar-custom .nav li a:hover,
@@ -364,7 +365,8 @@ hr.small {
 }
 
 .post-preview>a {
-  color: #404040
+  color: #404040;
+  text-decoration: none;
 }
 
 .post-preview>a:hover,
@@ -374,6 +376,7 @@ hr.small {
 }
 
 .post-preview>a>.post-title {
+  text-decoration: none;
   font-size: 30px;
   margin-top: 30px;
   margin-bottom: 10px
