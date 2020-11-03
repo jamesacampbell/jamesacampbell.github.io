@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Causes &amp; Effects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Feb 2019 21:19:10 -0500</lastBuildDate><atom:link href="https://www.jamescampbell.us/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2020 10:10:10 -0500</lastBuildDate><atom:link href="https://www.jamescampbell.us/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cli</title>
-      <link>https://www.jamescampbell.us/tags/cli/</link>
-      <pubDate>Sat, 23 Feb 2019 21:19:10 -0500</pubDate>
+      <title>git</title>
+      <link>https://www.jamescampbell.us/tags/git/</link>
+      <pubDate>Sun, 11 Oct 2020 10:10:10 -0500</pubDate>
       
-      <guid>https://www.jamescampbell.us/tags/cli/</guid>
+      <guid>https://www.jamescampbell.us/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tips</title>
       <link>https://www.jamescampbell.us/tags/tips/</link>
-      <pubDate>Sat, 23 Feb 2019 21:19:10 -0500</pubDate>
+      <pubDate>Sun, 11 Oct 2020 10:10:10 -0500</pubDate>
       
       <guid>https://www.jamescampbell.us/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cli</title>
+      <link>https://www.jamescampbell.us/tags/cli/</link>
+      <pubDate>Sat, 23 Feb 2019 21:19:10 -0500</pubDate>
+      
+      <guid>https://www.jamescampbell.us/tags/cli/</guid>
       <description></description>
     </item>
     
