@@ -6,25 +6,15 @@
     <description>Recent content in blog on Causes &amp; Effects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Mar 2018 20:18:53 -0500</lastBuildDate><atom:link href="https://www.jamescampbell.us/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2013 10:10:10 -0500</lastBuildDate><atom:link href="https://www.jamescampbell.us/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Video post</title>
-      <link>https://www.jamescampbell.us/posts/video-post/</link>
-      <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
+      <title>My Daily News Routine in 2013</title>
+      <link>https://www.jamescampbell.us/posts/daily-news-routine-2013/</link>
+      <pubDate>Mon, 02 Sep 2013 10:10:10 -0500</pubDate>
       
-      <guid>https://www.jamescampbell.us/posts/video-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
-    </item>
-    
-    <item>
-      <title>**Image** post</title>
-      <link>https://www.jamescampbell.us/posts/image-post/</link>
-      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
-      
-      <guid>https://www.jamescampbell.us/posts/image-post/</guid>
-      <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
-To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this YAML example:
-images: - /posts/ideas.png </description>
+      <guid>https://www.jamescampbell.us/posts/daily-news-routine-2013/</guid>
+      <description>It is impossible for anyone to keep up with everything that happens every single day.
+Back in 2008, stuck between Youtube videos, tweets, Flickr contacts, etcetera, I realized this. I decided to filter out what I really needed daily through a tight collection of RSS feeds and email subscriptions. I started with an initial list of 10 to 20 in Google Reader and it grew from there. I will skip the growing pains of this method, but trust me, it was hard to find a happy medium between being overwhelmed with content and feeling informed.</description>
     </item>
     
   </channel>

@@ -6,26 +6,15 @@
     <description>Recent content in story on Causes &amp; Effects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Feb 2018 12:41:46 -0500</lastBuildDate><atom:link href="https://www.jamescampbell.us/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2013 10:10:10 -0500</lastBuildDate><atom:link href="https://www.jamescampbell.us/tags/story/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>**Image** post</title>
-      <link>https://www.jamescampbell.us/posts/image-post/</link>
-      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
+      <title>My Daily News Routine in 2013</title>
+      <link>https://www.jamescampbell.us/posts/daily-news-routine-2013/</link>
+      <pubDate>Mon, 02 Sep 2013 10:10:10 -0500</pubDate>
       
-      <guid>https://www.jamescampbell.us/posts/image-post/</guid>
-      <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
-To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this YAML example:
-images: - /posts/ideas.png </description>
-    </item>
-    
-    <item>
-      <title>Dear Jane, regarding Mr. Bennet</title>
-      <link>https://www.jamescampbell.us/posts/dear-jane/</link>
-      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
-      
-      <guid>https://www.jamescampbell.us/posts/dear-jane/</guid>
-      <description>Chapter One It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
-However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.</description>
+      <guid>https://www.jamescampbell.us/posts/daily-news-routine-2013/</guid>
+      <description>It is impossible for anyone to keep up with everything that happens every single day.
+Back in 2008, stuck between Youtube videos, tweets, Flickr contacts, etcetera, I realized this. I decided to filter out what I really needed daily through a tight collection of RSS feeds and email subscriptions. I started with an initial list of 10 to 20 in Google Reader and it grew from there. I will skip the growing pains of this method, but trust me, it was hard to find a happy medium between being overwhelmed with content and feeling informed.</description>
     </item>
     
   </channel>
