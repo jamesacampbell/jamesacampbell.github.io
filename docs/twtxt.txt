@@ -1,7 +1,0 @@
-2016-03-10T22:55:54-05:00	Just setting up my twtxt
-2016-03-10T23:10:26-05:00	I always wanted my second tweet to be just 'cats' -- whoops…
-2016-08-14T15:00:00-05:00	"Rashers of bacon" is a great phrase.
-2016-08-14T15:57:42-04:00	hello new machine
-
-2016-08-14T16:00:12-04:00	got scp working for this to push to jamescampbell.us from another machine
-2019-09-07T22:06:57-04:00	Finally updated my twtxt
