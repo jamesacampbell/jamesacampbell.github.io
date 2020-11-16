@@ -150,7 +150,7 @@ Installing Pyenv brew install pyenv Once pyenv is installed, you can run the bar
 <p>Pipenv is a virtual environment and package manager all in one. It was created by <a href="https://kenreitz.org/">Ken Reitz</a>, the guy who is famous for Requests, so you know it is top quality and makes sense.
 To install, <code>pip install pipenv</code> for the project and pyenv version of Python you are working on.</p>
 <h3 id="how-to-use-pipenv">How To Use Pipenv</h3>
-<p>You use <code>pipenv install</code> to replace the bare <code>pip</code> command to install all packages. This creates a lockfile, <code>.Piplock</code> and keeps it up to date along with a <code>.Pipfile</code> that is very similar to package.json or a config.json file if coming from javascript. You want to make sure the Piplock dotfile is gitignored properly, just like the package.lock file from  javascript projects.</p>
+<p>You use <code>pipenv install</code> to replace the bare <code>pip</code> command to install all packages. This creates a lockfile, <code>Piplock</code> and keeps it up to date along with a <code>Pipfile</code> that is very similar to package.json or a config.json file if coming from javascript. You want to make sure the Piplock dotfile is gitignore-d properly, just like the package.lock file from  javascript projects.</p>
 <p>To use the environment, it is very similar to <code>venv</code>, you execute <code>pipenv shell</code> which will activate your virtual environment that has everything installed and locked in. When you are done you simply run <code>exit</code> to get out of the virtual environment.</p>
 <p>As an alternative to the <code>pipenv install</code> for individual packages, you can also point it to a requirements.txt file via <code>pipenv install -r /path/to/requirements.txt</code>.</p>
 <p><a href="https://pipenv.pypa.io/en/latest/basics/">Full Documentation</a></p>
@@ -166,7 +166,7 @@ To install, <code>pip install pipenv</code> for the project and pyenv version of
 <li>When you are done, exit the virtual environment via <code>exit</code></li>
 </ol>
 <p>As you can see, the ultra-combo of having python version control locked down for my global as well as my local project environment as well as having package versioning at the project level along with a virtual environment specific project saves me tons of time and just works.</p>
-<p>Having a Pipfile and a requirements.txt file at the root of my project along with the <code>.python-version</code> dotfile ensures that all of my Python code stays organizes and is garunteed to work and be repeatable and explorable by others.</p>
+<p>Having a Pipfile and a requirements.txt file at the root of my project along with the <code>.python-version</code> dotfile ensures that all of my Python code stays organizes and is guaranteed to work and be repeatable and explorable by others.</p>
 
     </article>
 </div>
