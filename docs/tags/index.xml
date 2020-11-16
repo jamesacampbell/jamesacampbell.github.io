@@ -6,22 +6,49 @@
     <description>Recent content in Tags on Causes &amp; Effects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2020 10:10:10 -0500</lastBuildDate><atom:link href="https://www.jamescampbell.us/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Nov 2020 10:10:10 -0500</lastBuildDate><atom:link href="https://www.jamescampbell.us/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>git</title>
-      <link>https://www.jamescampbell.us/tags/git/</link>
-      <pubDate>Sun, 11 Oct 2020 10:10:10 -0500</pubDate>
+      <title>pipenv</title>
+      <link>https://www.jamescampbell.us/tags/pipenv/</link>
+      <pubDate>Sun, 15 Nov 2020 10:10:10 -0500</pubDate>
       
-      <guid>https://www.jamescampbell.us/tags/git/</guid>
+      <guid>https://www.jamescampbell.us/tags/pipenv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyenv</title>
+      <link>https://www.jamescampbell.us/tags/pyenv/</link>
+      <pubDate>Sun, 15 Nov 2020 10:10:10 -0500</pubDate>
+      
+      <guid>https://www.jamescampbell.us/tags/pyenv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://www.jamescampbell.us/tags/python/</link>
+      <pubDate>Sun, 15 Nov 2020 10:10:10 -0500</pubDate>
+      
+      <guid>https://www.jamescampbell.us/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tips</title>
       <link>https://www.jamescampbell.us/tags/tips/</link>
-      <pubDate>Sun, 11 Oct 2020 10:10:10 -0500</pubDate>
+      <pubDate>Sun, 15 Nov 2020 10:10:10 -0500</pubDate>
       
       <guid>https://www.jamescampbell.us/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://www.jamescampbell.us/tags/git/</link>
+      <pubDate>Sun, 11 Oct 2020 10:10:10 -0500</pubDate>
+      
+      <guid>https://www.jamescampbell.us/tags/git/</guid>
       <description></description>
     </item>
     
