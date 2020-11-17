@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tips on Causes &amp; Effects</title>
+    <link>https://www.jamescampbell.us/tags/tips/</link>
+    <description>Recent content in tips on Causes &amp; Effects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2020 10:10:10 -0500</lastBuildDate><atom:link href="https://www.jamescampbell.us/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Use Pyenv and Pipenv for All Python Projects</title>
+      <link>https://www.jamescampbell.us/posts/pyenv-pipenv/</link>
+      <pubDate>Sun, 15 Nov 2020 10:10:10 -0500</pubDate>
+      
+      <guid>https://www.jamescampbell.us/posts/pyenv-pipenv/</guid>
+      <description>My Python workflow is constantly changing as new tools emerge to make things faster and easier. In this post, I want to share my current workflow as of November 2020.
+My current step zero workflow for any project or even a fresh OS relies on Pyenv and Pipenv, and here is how:
+Installing Pyenv brew install pyenv Once pyenv is installed, you can run the bare command and list all of the options.</description>
+    </item>
+    
+    <item>
+      <title>Stop Worrying and Git Yolo</title>
+      <link>https://www.jamescampbell.us/posts/yolo-git-2020/</link>
+      <pubDate>Sun, 11 Oct 2020 10:10:10 -0500</pubDate>
+      
+      <guid>https://www.jamescampbell.us/posts/yolo-git-2020/</guid>
+      <description>Git yolo has changed my life for the better. It saves me tons of time. You never have to type in a commit comment again.
+Here is how to get the yolo alias working:
+You need to edit your gitconfig dotfile that is located at ~/.gitconfig.
+Mine before:
+$ cat ~/.gitconfig # This is Git&#39;s per-user configuration file. [user] # Please adapt and uncomment the following lines: name = jamesacampbell email = james@jamescampbell.</description>
+    </item>
+    
+    <item>
+      <title>Streaming Music from the Terminal</title>
+      <link>https://www.jamescampbell.us/posts/streaming-music-from-terminal/</link>
+      <pubDate>Sat, 23 Feb 2019 21:19:10 -0500</pubDate>
+      
+      <guid>https://www.jamescampbell.us/posts/streaming-music-from-terminal/</guid>
+      <description>Do you remember Rdio? It was a better than Spotify at streaming music back in 2012.
+In 2013, Entertainment Weekly compared a number of music services and judged Rdio the best, grading it &amp;ldquo;A&amp;rdquo; and writing that it had &amp;ldquo;by far the best app and online interface, making database searching and playlist curation easy&amp;rdquo; - source
+Rdio ended up not finding the right business model, or spending too much of its 200 million, or who knows what, but it filed for bankruptcy in 2015 and Pandora purchased it and all of its assets for 75 million cash.</description>
+    </item>
+    
+  </channel>
+</rss>
